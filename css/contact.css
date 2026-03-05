@@ -73,3 +73,20 @@ body {
     text-decoration: none;
     transition: 0.3s;
 }
+
+.signup-btn:hover {
+    background-color: #b0256a;
+}
+
+.footer {
+    background-color: #f8c8dc;   
+    color: #333;
+    padding: 50px 8% 25px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 40px;
+}
