@@ -146,14 +146,6 @@ body{
     flex: 1;
 }
 
-.slider{
-width:80%;
-height:400px;
-margin:40px auto;
-overflow:hidden;
-border-radius:12px;
-box-shadow:0 8px 20px rgba(0,0,0,0.2);
-}
 
 .slide{
 width:100%;
