@@ -1,4 +1,4 @@
-alert("Welcome to blush & Bloom Contact Page.");
+alert("Welcome to blush & Bloom Contact Page🌸.");
 
 let visitorCount = 0;
 visitorCount++;
