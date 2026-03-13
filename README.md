@@ -1,5 +1,4 @@
-🌸 Blush & Bloom – Skincare Website
-## 🌸 Blush & Bloom Website Preview
+## 🌸 Blush & Bloom - Skincare Website
 
 ![Blush & Bloom Website](images/web-img.png)
 Blush & Bloom is a simple and user-friendly skincare website created using HTML, CSS, and JavaScript.
@@ -64,10 +63,12 @@ Academic Mini Project – Web Development
 
 <p align="center">
 
-<img src="images/saee.jpg" width="80">
-<img src="images/diksha.jpg" width="80">
-<img src="images/member3.jpg" width="80">
-<img src="images/member4.jpg" width="80">
+<img src="images/saee.jpg" width="90" height="90" style="border-radius:50%;">
+<img src="images/rutu.jpg" width="90" height="90" style="border-radius:50%;">
+<img src="images/diksha.jpg" width="90" height="90" style="border-radius:50%;">
+<img src="images/nisha.jpg" width="90" height="90" style="border-radius:50%;">
+<img src="images/namrata.jpg" width="90" height="90" style="border-radius:50%;">
+<img src="images/supriya.jpg" width="90" height="90" style="border-radius:50%;">
 
 </p>
 
