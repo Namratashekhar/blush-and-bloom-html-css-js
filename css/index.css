@@ -303,7 +303,7 @@ body {
 }
 
 .concern-card {
-    background-color: ; /* Light cream background */
+    background-color: #f9f9f9; /* Light cream background */
     border-radius: 15px;
     overflow: hidden;
     display: flex;
