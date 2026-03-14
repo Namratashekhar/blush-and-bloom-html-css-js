@@ -44,7 +44,6 @@ background:#ff4d88;
 color:white;
 border-radius:6px;
 }
-
 .routine-detail{
 padding:60px;
 text-align:center;
@@ -124,9 +123,7 @@ height:220px;
 
 }
 
-
 @media (max-width:480px){
-
 .routine-main h1{
 font-size:26px;
 }
