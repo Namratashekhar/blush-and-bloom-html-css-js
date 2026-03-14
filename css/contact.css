@@ -68,6 +68,7 @@ textarea {
 
 @media (max-width:768px) {
     .container {
-        width: 700px;
+        width:700px;
+        height: fit-content;
     }
 }
